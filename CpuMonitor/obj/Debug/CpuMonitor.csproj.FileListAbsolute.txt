@@ -1,0 +1,10 @@
+E:\Drive\Portfolio\C#\CpuMonitor\CpuMonitor\CpuMonitor\obj\Debug\CpuMonitor.csprojAssemblyReference.cache
+E:\Drive\Portfolio\C#\CpuMonitor\CpuMonitor\CpuMonitor\obj\Debug\CpuMonitor.Properties.Resources.resources
+E:\Drive\Portfolio\C#\CpuMonitor\CpuMonitor\CpuMonitor\obj\Debug\CpuMonitor.csproj.GenerateResource.cache
+E:\Drive\Portfolio\C#\CpuMonitor\CpuMonitor\CpuMonitor\obj\Debug\CpuMonitor.csproj.CoreCompileInputs.cache
+E:\Drive\Portfolio\C#\CpuMonitor\CpuMonitor\CpuMonitor\bin\Debug\CpuMonitor.exe.config
+E:\Drive\Portfolio\C#\CpuMonitor\CpuMonitor\CpuMonitor\bin\Debug\CpuMonitor.exe
+E:\Drive\Portfolio\C#\CpuMonitor\CpuMonitor\CpuMonitor\bin\Debug\CpuMonitor.pdb
+E:\Drive\Portfolio\C#\CpuMonitor\CpuMonitor\CpuMonitor\obj\Debug\CpuMonitor.exe
+E:\Drive\Portfolio\C#\CpuMonitor\CpuMonitor\CpuMonitor\obj\Debug\CpuMonitor.pdb
+E:\Drive\Portfolio\C#\CpuMonitor\CpuMonitor\CpuMonitor\obj\Debug\CpuMonitor.Form1.resources
